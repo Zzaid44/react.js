@@ -1,0 +1,13 @@
+#nav{
+    color: blueviolet;
+    display: flex;
+    height: 120px;
+    background-color: black;
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 80px;
+    margin-left: 35%;
+    margin-top: 30px;
+}
